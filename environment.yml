@@ -6,3 +6,4 @@ dependencies:
   - holoviews==1.13.4
   - geoviews==1.8.1
   - bokeh==2.1.1
+  - xlrd = 1.2.0
