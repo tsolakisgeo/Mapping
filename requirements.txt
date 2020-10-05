@@ -1,4 +1,4 @@
-pandas==0.25.3+0.g62a87bf4a2.dirty
+pandas==0.25
 matplotlib==3.2.0
 holoviews==1.13.3a1
 geoviews==1.8.1
